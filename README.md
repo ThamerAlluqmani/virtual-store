@@ -1,7 +1,7 @@
 # virtual-store  
 Virtual store made by using Vue.js framework  
 
-#Installation  
+# Installation  
 1 - Download and install Node js : "https://nodejs.org/en/download/"  
 2 - Download and Extract the projcet  
 3 - Open the Project in CMD  
